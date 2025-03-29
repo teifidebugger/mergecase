@@ -1,4 +1,4 @@
 export const settings = {
-  darkMode: false,
+  darkMode: true,
   language: 'en',
 };
